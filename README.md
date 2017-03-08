@@ -3,4 +3,4 @@
 (理論上は時間があれば解けますが, 現実的ではないっぽい)
 
 # 使い方
-hash_data.pyにdataを書いて, hash_script.pyを実行する.
+hash-data.pyにdataを書いて, hash-script.pyを実行する.
